@@ -62,19 +62,23 @@ Record the interesting papers I read. Because I just started recording recently,
 
    *Bill Yuchen Lin, Abhilasha Ravichander, Ximing Lu, Nouha Dziri, Melanie Sclar, Khyathi Chandu, Chandra Bhagavatula, Yejin Choi*. [[pdf](https://arxiv.org/pdf/2305.18290.pdf)], 2023.3.29.
 
-3. **The Unlocking Spell on Base LLMs: Rethinking Alignment via In-Context Learning**
+3. **Exploring the Relationship between In-Context Learning and Instruction Tuning**
+
+   *Hanyu Duan, Yixuan Tang, Yi Yang, Ahmed Abbasi, Kar Yan Tam*. [[pdf](https://arxiv.org/pdf/2311.10367.pdf)], 2023.11.17.
+
+4. **The Unlocking Spell on Base LLMs: Rethinking Alignment via In-Context Learning**
 
    *Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher D. Manning, Chelsea Finn*. [[pdf](https://arxiv.org/pdf/2312.01552.pdf)], 2023.12.4.
 
-4. **Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision**
+5. **Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision**
 
    *Collin Burns, Pavel Izmailov, Jan Hendrik Kirchner, Bowen Baker, Leo Gao, Leopold Aschenbrenner, Yining Chen, Adrien Ecoffet, Manas Joglekar, Jan Leike, Ilya Sutskever, Jeff Wu*. [[pdf](https://arxiv.org/pdf/2312.09390.pdf)], 2023.12.14.
 
-5. **One Shot Learning as Instruction Data Prospector for Large Language Models**
+6. **One Shot Learning as Instruction Data Prospector for Large Language Models**
 
    *Yunshui Li, Binyuan Hui, Xiaobo Xia, Jiaxi Yang, Min Yang, Lei Zhang, Shuzheng Si, Junhao Liu, Tongliang Liu, Fei Huang, Yongbin Li*. [[pdf](https://arxiv.org/pdf/2312.10302.pdf)], 2023.12.16.
 
-6. **What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning**
+7. **What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning**
 
    *Wei Liu, Weihao Zeng, Keqing He, Yong Jiang, Junxian He*. [[pdf](https://arxiv.org/pdf/2312.15685.pdf)], 2023.12.25.
 
