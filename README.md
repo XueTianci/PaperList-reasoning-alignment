@@ -45,14 +45,13 @@ Record the interesting papers I read. Because I just started recording recently,
    *Jie Huang, Xinyun Chen, Swaroop Mishra, Huaixiu Steven Zheng, Adams Wei Yu, Xinying Song, Denny Zhou*. [[pdf](https://arxiv.org/pdf/2310.01798.pdf)], 2023.10.3.
 
 10. **MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models**
+    *Longhui Yu, Weisen Jiang, Han Shi, Jincheng Yu, Zhengying Liu, Yu Zhang, James T. Kwok, Zhenguo Li, Adrian Weller, Weiyang Liu*. [[pdf](https://arxiv.org/pdf/2309.12284.pdf)], 2023.9.21.
 
-   *Longhui Yu, Weisen Jiang, Han Shi, Jincheng Yu, Zhengying Liu, Yu Zhang, James T. Kwok, Zhenguo Li, Adrian Weller, Weiyang Liu*. [[pdf](https://arxiv.org/pdf/2309.12284.pdf)], 2023.9.21.
-
-11. **Let's Reinforce Step by Step**
+12. **Let's Reinforce Step by Step**
 
     *Sarah Pan, Vladislav Lialin, Sherin Muckatira, Anna Rumshisky*. [[pdf](https://arxiv.org/pdf/2311.05821.pdf)], 2023.11.10.
 
-12. **Math-Shepherd: A Label-Free Step-by-Step Verifier for LLMs in Mathematical Reasoning**
+13. **Math-Shepherd: A Label-Free Step-by-Step Verifier for LLMs in Mathematical Reasoning**
 
     *Peiyi Wang, Lei Li, Zhihong Shao, R.X. Xu, Damai Dai, Yifei Li, Deli Chen, Y.Wu, Zhifang Sui*. [[pdf](https://arxiv.org/pdf/2312.08935.pdf)], 2023.12.28.
 
