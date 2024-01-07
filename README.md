@@ -82,6 +82,12 @@ Record the interesting papers I read. Because I just started recording recently,
    *Syeda Nahida Akter, Zichun Yu, Aashiq Muhamed, Tianyue Ou, Alex Bäuerle, Ángel Alexander Cabrera, Krish Dholakia, Chenyan Xiong, Graham Neubig*. [[pdf](https://arxiv.org/pdf/2312.11444.pdf)], 2023.12.18.
 
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=XueTianci/PaperList-reasoning-alignment&type=Date)](https://star-history.com/#XueTianci/PaperList-reasoning-alignment&Date)
+
+
+
 
 
 
