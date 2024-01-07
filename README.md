@@ -70,7 +70,11 @@ Record the interesting papers I read. Because I just started recording recently,
 
    *Collin Burns, Pavel Izmailov, Jan Hendrik Kirchner, Bowen Baker, Leo Gao, Leopold Aschenbrenner, Yining Chen, Adrien Ecoffet, Manas Joglekar, Jan Leike, Ilya Sutskever, Jeff Wu*. [[pdf](https://arxiv.org/pdf/2312.09390.pdf)], 2023.12.14.
 
-5. **What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning**
+5. **One Shot Learning as Instruction Data Prospector for Large Language Models**
+
+   *Yunshui Li, Binyuan Hui, Xiaobo Xia, Jiaxi Yang, Min Yang, Lei Zhang, Shuzheng Si, Junhao Liu, Tongliang Liu, Fei Huang, Yongbin Li*. [[pdf](https://arxiv.org/pdf/2312.10302.pdf)], 2023.12.16.
+
+6. **What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning**
 
    *Wei Liu, Weihao Zeng, Keqing He, Yong Jiang, Junxian He*. [[pdf](https://arxiv.org/pdf/2312.15685.pdf)], 2023.12.25.
 
