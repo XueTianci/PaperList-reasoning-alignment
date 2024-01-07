@@ -1,4 +1,5 @@
 # Paper List for Reasoning and Alignment
+Record the interesting papers I read. Because I just started recording recently, the paper list may miss many remarkable papers from the past few years.
 ## Contents
 
 - [Paper List]
@@ -6,8 +7,81 @@
   - [Papers for Alignment](#Alignment)
  
 ## Reasoning
-1. **Math-Shepherd: A Label-Free Step-by-Step Verifier for LLMs in Mathematical Reasoning**
 
-   *Peiyi Wang and Lei Li and Zhihong Shao and R. X. Xu and Damai Dai and Yifei Li and Deli Chen and Y. Wu and Zhifang Sui*. [[pdf](https://arxiv.org/pdf/2312.08935.pdf)], 2023.12.28.
+1. **Chain of Thought Prompting Elicits Reasoning in Large Language Models**
+
+   *Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou*. [[pdf](https://arxiv.org/pdf/2201.11903v6.pdf)], 2022.1.28.
+
+2. **Self-Consistency Improves Chain of Thought Reasoning in Language Models**
+
+   *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou*. [[pdf](https://arxiv.org/pdf/2203.11171.pdf)], 2022.3.21.
+
+3. **Least-to-Most Prompting Enables Complex Reasoning in Large Language Models**
+
+   *Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Claire Cui, Olivier Bousquet, Quoc Le, Ed Chi*. [[pdf](https://arxiv.org/pdf/2205.10625.pdf)], 2022.5.21.
+
+4. **Self-Refine: Iterative Refinement with Self-Feedback**
+
+   *Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, Sarah Wiegreffe, Uri Alon, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Shashank Gupta, Bodhisattwa Prasad Majumder, Katherine Hermann, Sean Welleck, Amir Yazdanbakhsh, Peter Clark*. [[pdf](https://arxiv.org/pdf/2303.17651.pdf)], 2023.3.30.
+
+5. **RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought**
+
+   *Tianci Xue, Ziqi Wang, Zhenhailong Wang, Chi Han, Pengfei Yu, Heng Ji*. [[pdf](https://arxiv.org/pdf/2305.11499.pdf)], 2023.5.19.
+   
+6. **Let's Verify Step by Step**
+
+   *Hunter Lightman, Vineet Kosaraju, Yura Burda, Harri Edwards, Bowen Baker, Teddy Lee, Jan Leike, John Schulman, Ilya Sutskever, Karl Cobbe*. [[pdf](https://arxiv.org/pdf/2305.20050.pdf)], 2023.5.31.
+
+7. **WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct**
+
+   *Haipeng Luo, Qingfeng Sun, Can Xu, Pu Zhao, Jianguang Lou, Chongyang Tao, Xiubo Geng, Qingwei Lin, Shifeng Chen, Dongmei Zhang*. [[pdf](https://arxiv.org/pdf/2308.09583.pdf)], 2023.8.18.
+
+8. **Large Language Models Cannot Self-Correct Reasoning Yet**
+
+   *Jie Huang, Xinyun Chen, Swaroop Mishra, Huaixiu Steven Zheng, Adams Wei Yu, Xinying Song, Denny Zhou*. [[pdf](https://arxiv.org/pdf/2310.01798.pdf)], 2023.10.3.
+
+9. **MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models**
+
+   *Longhui Yu, Weisen Jiang, Han Shi, Jincheng Yu, Zhengying Liu, Yu Zhang, James T. Kwok, Zhenguo Li, Adrian Weller, Weiyang Liu*. [[pdf](https://arxiv.org/pdf/2309.12284.pdf)], 2023.9.21.
+
+10. **Let's Reinforce Step by Step**
+
+    *Sarah Pan, Vladislav Lialin, Sherin Muckatira, Anna Rumshisky*. [[pdf](https://arxiv.org/pdf/2311.05821.pdf)], 2023.11.10.
+
+12. **Math-Shepherd: A Label-Free Step-by-Step Verifier for LLMs in Mathematical Reasoning**
+
+    *Peiyi Wang, Lei Li, Zhihong Shao, R.X. Xu, Damai Dai, Yifei Li, Deli Chen, Y.Wu, Zhifang Sui*. [[pdf](https://arxiv.org/pdf/2312.08935.pdf)], 2023.12.28.
 
 ## Alignment
+
+1. **Chain of Hindsight Aligns Language Models with Feedback**
+
+   *Hao Liu, Carmelo Sferrazza, Pieter Abbeel*. [[pdf](https://arxiv.org/pdf/2302.02676.pdf)], 2023.2.6.
+
+2. **Direct Preference Optimization: Your Language Model is Secretly a Reward Model**
+
+   *Bill Yuchen Lin, Abhilasha Ravichander, Ximing Lu, Nouha Dziri, Melanie Sclar, Khyathi Chandu, Chandra Bhagavatula, Yejin Choi*. [[pdf](https://arxiv.org/pdf/2305.18290.pdf)], 2023.3.29.
+
+3. **The Unlocking Spell on Base LLMs: Rethinking Alignment via In-Context Learning**
+
+   *Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher D. Manning, Chelsea Finn*. [[pdf](https://arxiv.org/pdf/2312.01552.pdf)], 2023.12.4.
+
+4. **Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision**
+
+   *Collin Burns, Pavel Izmailov, Jan Hendrik Kirchner, Bowen Baker, Leo Gao, Leopold Aschenbrenner, Yining Chen, Adrien Ecoffet, Manas Joglekar, Jan Leike, Ilya Sutskever, Jeff Wu*. [[pdf](https://arxiv.org/pdf/2312.09390.pdf)], 2023.12.14.
+
+5. **What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning**
+
+   *Wei Liu, Weihao Zeng, Keqing He, Yong Jiang, Junxian He*. [[pdf](https://arxiv.org/pdf/2312.15685.pdf)], 2023.12.25.
+
+
+## Other
+
+1. **An In-depth Look at Gemini's Language Abilities**
+
+   *Syeda Nahida Akter, Zichun Yu, Aashiq Muhamed, Tianyue Ou, Alex Bäuerle, Ángel Alexander Cabrera, Krish Dholakia, Chenyan Xiong, Graham Neubig*. [[pdf](https://arxiv.org/pdf/2312.11444.pdf)], 2023.12.18.
+
+
+
+
+
