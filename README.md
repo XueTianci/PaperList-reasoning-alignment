@@ -32,19 +32,23 @@ Record the interesting papers I read. Because I just started recording recently,
 
    *Hunter Lightman, Vineet Kosaraju, Yura Burda, Harri Edwards, Bowen Baker, Teddy Lee, Jan Leike, John Schulman, Ilya Sutskever, Karl Cobbe*. [[pdf](https://arxiv.org/pdf/2305.20050.pdf)], 2023.5.31.
 
-7. **WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct**
+7. **Reinforced Self-Training (ReST) for Language Modeling**
+
+   *Caglar Gulcehre, Tom Le Paine, Srivatsan Srinivasan, Ksenia Konyushkova, Lotte Weerts, Abhishek Sharma, Aditya Siddhant, Alex Ahern, Miaosen Wang, Chenjie Gu, Wolfgang Macherey, Arnaud Doucet, Orhan Firat, Nando de Freitas*. [[pdf](https://arxiv.org/pdf/2308.08998.pdf)], 2023.8.17.
+
+8. **WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct**
 
    *Haipeng Luo, Qingfeng Sun, Can Xu, Pu Zhao, Jianguang Lou, Chongyang Tao, Xiubo Geng, Qingwei Lin, Shifeng Chen, Dongmei Zhang*. [[pdf](https://arxiv.org/pdf/2308.09583.pdf)], 2023.8.18.
 
-8. **Large Language Models Cannot Self-Correct Reasoning Yet**
+9. **Large Language Models Cannot Self-Correct Reasoning Yet**
 
    *Jie Huang, Xinyun Chen, Swaroop Mishra, Huaixiu Steven Zheng, Adams Wei Yu, Xinying Song, Denny Zhou*. [[pdf](https://arxiv.org/pdf/2310.01798.pdf)], 2023.10.3.
 
-9. **MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models**
+10. **MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models**
 
    *Longhui Yu, Weisen Jiang, Han Shi, Jincheng Yu, Zhengying Liu, Yu Zhang, James T. Kwok, Zhenguo Li, Adrian Weller, Weiyang Liu*. [[pdf](https://arxiv.org/pdf/2309.12284.pdf)], 2023.9.21.
 
-10. **Let's Reinforce Step by Step**
+11. **Let's Reinforce Step by Step**
 
     *Sarah Pan, Vladislav Lialin, Sherin Muckatira, Anna Rumshisky*. [[pdf](https://arxiv.org/pdf/2311.05821.pdf)], 2023.11.10.
 
