@@ -50,8 +50,12 @@ Record the interesting papers I read. Because I just started recording recently,
 12. **Let's Reinforce Step by Step**
 
     *Sarah Pan, Vladislav Lialin, Sherin Muckatira, Anna Rumshisky*. [[pdf](https://arxiv.org/pdf/2311.05821.pdf)], 2023.11.10.
+    
+13. **What Makes Chain-of-Thought Prompting Effective? A Counterfactual Study**
 
-13. **Math-Shepherd: A Label-Free Step-by-Step Verifier for LLMs in Mathematical Reasoning**
+    *Aman Madaan, Katherine Hermann, Amir Yazdanbakhsh*. [[pdf](https://aclanthology.org/2023.findings-emnlp.101.pdf)], 2023.12.1.
+
+14. **Math-Shepherd: A Label-Free Step-by-Step Verifier for LLMs in Mathematical Reasoning**
 
     *Peiyi Wang, Lei Li, Zhihong Shao, R.X. Xu, Damai Dai, Yifei Li, Deli Chen, Y.Wu, Zhifang Sui*. [[pdf](https://arxiv.org/pdf/2312.08935.pdf)], 2023.12.28.
 
