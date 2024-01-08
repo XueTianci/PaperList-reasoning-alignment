@@ -96,6 +96,10 @@ Record the interesting papers I read. Because I just started recording recently,
 
    *Chengyue Wu, Yukang Gan, Yixiao Ge, Zeyu Lu, Jiahao Wang, Ye Feng, Ping Luo, Ying Shan*. [[pdf](https://arxiv.org/pdf/2401.02415.pdf)], 2023.1.4.
 
+3. **DeepSeek LLM: Scaling Open-Source Language Models with Longtermism**
+
+   *Xiao Bi, Deli Chen, Guanting Chen, Shanhuang Chen, Damai Dai, Chengqi Deng, Honghui Ding, et al.*. [[pdf](https://arxiv.org/pdf/2401.02954.pdf)], 2023.1.5.
+
 
 ## Star History
 
