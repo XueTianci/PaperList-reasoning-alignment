@@ -92,6 +92,10 @@ Record the interesting papers I read. Because I just started recording recently,
 
    *Syeda Nahida Akter, Zichun Yu, Aashiq Muhamed, Tianyue Ou, Alex Bäuerle, Ángel Alexander Cabrera, Krish Dholakia, Chenyan Xiong, Graham Neubig*. [[pdf](https://arxiv.org/pdf/2312.11444.pdf)], 2023.12.18.
 
+2. **LLaMA Pro: Progressive LLaMA with Block Expansion**
+
+   *Chengyue Wu, Yukang Gan, Yixiao Ge, Zeyu Lu, Jiahao Wang, Ye Feng, Ping Luo, Ying Shan*. [[pdf](https://arxiv.org/pdf/2401.02415.pdf)], 2023.1.4.
+
 
 ## Star History
 
