@@ -92,15 +92,19 @@ Record the interesting papers I read. Because I just started recording recently,
 
 ## Other
 
-1. **An In-depth Look at Gemini's Language Abilities**
+1. **DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models**
+
+   *Yung-Sung Chuang, Yujia Xie, Hongyin Luo, Yoon Kim, James Glass, Pengcheng He*. [[pdf](https://arxiv.org/pdf/2401.02954.pdf)], 2023.9.1.
+   
+2. **An In-depth Look at Gemini's Language Abilities**
 
    *Syeda Nahida Akter, Zichun Yu, Aashiq Muhamed, Tianyue Ou, Alex Bäuerle, Ángel Alexander Cabrera, Krish Dholakia, Chenyan Xiong, Graham Neubig*. [[pdf](https://arxiv.org/pdf/2312.11444.pdf)], 2023.12.18.
 
-2. **LLaMA Pro: Progressive LLaMA with Block Expansion**
+3. **LLaMA Pro: Progressive LLaMA with Block Expansion**
 
    *Chengyue Wu, Yukang Gan, Yixiao Ge, Zeyu Lu, Jiahao Wang, Ye Feng, Ping Luo, Ying Shan*. [[pdf](https://arxiv.org/pdf/2401.02415.pdf)], 2023.1.4.
 
-3. **DeepSeek LLM: Scaling Open-Source Language Models with Longtermism**
+4. **DeepSeek LLM: Scaling Open-Source Language Models with Longtermism**
 
    *Xiao Bi, Deli Chen, Guanting Chen, Shanhuang Chen, Damai Dai, Chengqi Deng, Honghui Ding, et al.*. [[pdf](https://arxiv.org/pdf/2401.02954.pdf)], 2023.1.5.
 
