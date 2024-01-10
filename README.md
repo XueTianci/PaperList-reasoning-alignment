@@ -108,6 +108,10 @@ Record the interesting papers I read. Because I just started recording recently,
 
    *Xiao Bi, Deli Chen, Guanting Chen, Shanhuang Chen, Damai Dai, Chengqi Deng, Honghui Ding, et al.*. [[pdf](https://arxiv.org/pdf/2401.02954.pdf)], 2023.1.5.
 
+5. **Mixtral of Experts**
+
+   *Albert Q. Jiang, Alexandre Sablayrolles, Antoine Roux, Arthur Mensch, Blanche Savary, et al.*. [[pdf](https://arxiv.org/pdf/2401.04088.pdf)], 2023.1.8.
+
 
 ## Star History
 
