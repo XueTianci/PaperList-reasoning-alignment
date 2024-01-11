@@ -63,6 +63,10 @@ Record the interesting papers I read. Because I just started recording recently,
 
     *Zilong Wang, Hao Zhang, Chun-Liang Li, Julian Martin Eisenschlos, Vincent Perot, Zifeng Wang, Lesly Miculicich, Yasuhisa Fujii, Jingbo Shang, Chen-Yu Lee, Tomas Pfister*. [[pdf](https://arxiv.org/pdf/2401.04398.pdf)], 2024.1.9.
 
+16. **The Impact of Reasoning Step Length on Large Language Models**
+
+   *Mingyu Jin, Qinkai Yu, Dong shu, Haiyan Zhao, Wenyue Hua, Yanda Meng, Yongfeng Zhang, Mengnan Du*. [[pdf](https://arxiv.org/pdf/2401.04925.pdf)], 2023.1.10.
+
 ## Alignment
 
 1. **Chain of Hindsight Aligns Language Models with Feedback**
