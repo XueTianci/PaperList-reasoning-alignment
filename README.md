@@ -65,7 +65,7 @@ Record the interesting papers I read. Because I just started recording recently,
 
 16. **The Impact of Reasoning Step Length on Large Language Models**
 
-   *Mingyu Jin, Qinkai Yu, Dong shu, Haiyan Zhao, Wenyue Hua, Yanda Meng, Yongfeng Zhang, Mengnan Du*. [[pdf](https://arxiv.org/pdf/2401.04925.pdf)], 2023.1.10.
+    *Mingyu Jin, Qinkai Yu, Dong shu, Haiyan Zhao, Wenyue Hua, Yanda Meng, Yongfeng Zhang, Mengnan Du*. [[pdf](https://arxiv.org/pdf/2401.04925.pdf)], 2023.1.10.
 
 ## Alignment
 
