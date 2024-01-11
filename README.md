@@ -59,6 +59,10 @@ Record the interesting papers I read. Because I just started recording recently,
 
     *Peiyi Wang, Lei Li, Zhihong Shao, R.X. Xu, Damai Dai, Yifei Li, Deli Chen, Y.Wu, Zhifang Sui*. [[pdf](https://arxiv.org/pdf/2312.08935.pdf)], 2023.12.28.
 
+15. **Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding**
+
+    *Zilong Wang, Hao Zhang, Chun-Liang Li, Julian Martin Eisenschlos, Vincent Perot, Zifeng Wang, Lesly Miculicich, Yasuhisa Fujii, Jingbo Shang, Chen-Yu Lee, Tomas Pfister*. [[pdf](https://arxiv.org/pdf/2401.04398.pdf)], 2024.1.9.
+
 ## Alignment
 
 1. **Chain of Hindsight Aligns Language Models with Feedback**
