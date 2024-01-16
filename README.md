@@ -67,6 +67,10 @@ Record the interesting papers I read. Because I just started recording recently,
 
     *Mingyu Jin, Qinkai Yu, Dong shu, Haiyan Zhao, Wenyue Hua, Yanda Meng, Yongfeng Zhang, Mengnan Du*. [[pdf](https://arxiv.org/pdf/2401.04925.pdf)], 2023.1.10.
 
+17. **The Unreasonable Effectiveness of Easy Training Data for Hard Tasks**
+
+    *Peter Hase, Mohit Bansal, Peter Clark, Sarah Wiegreffe*. [[pdf](https://arxiv.org/pdf/2401.06751.pdf)], 2023.1.12.
+
 ## Alignment
 
 1. **Chain of Hindsight Aligns Language Models with Feedback**
