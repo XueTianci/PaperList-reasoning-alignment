@@ -47,11 +47,11 @@ Record the interesting papers I read. Because I just started recording recently,
 
 10. **Large Language Models Cannot Self-Correct Reasoning Yet**
 
-   *Jie Huang, Xinyun Chen, Swaroop Mishra, Huaixiu Steven Zheng, Adams Wei Yu, Xinying Song, Denny Zhou*. [[pdf](https://arxiv.org/pdf/2310.01798.pdf)], 2023.10.3.
+    *Jie Huang, Xinyun Chen, Swaroop Mishra, Huaixiu Steven Zheng, Adams Wei Yu, Xinying Song, Denny Zhou*. [[pdf](https://arxiv.org/pdf/2310.01798.pdf)], 2023.10.3.
 
 11. **Query and Response Augmentation Cannot Help Out-of-domain Math Reasoning Generalization**
 
-   *Chengpeng Li, Zheng Yuan, Hongyi Yuan, Guanting Dong, Keming Lu, Jiancan Wu, Chuanqi Tan, Xiang Wang, Chang Zhou*. [[pdf](https://arxiv.org/pdf/2310.05506.pdf)], 2023.10.9.
+    *Chengpeng Li, Zheng Yuan, Hongyi Yuan, Guanting Dong, Keming Lu, Jiancan Wu, Chuanqi Tan, Xiang Wang, Chang Zhou*. [[pdf](https://arxiv.org/pdf/2310.05506.pdf)], 2023.10.9.
 
 12. **Let's Reinforce Step by Step**
 
