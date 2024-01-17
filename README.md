@@ -42,12 +42,16 @@ Record the interesting papers I read. Because I just started recording recently,
 
    *Haipeng Luo, Qingfeng Sun, Can Xu, Pu Zhao, Jianguang Lou, Chongyang Tao, Xiubo Geng, Qingwei Lin, Shifeng Chen, Dongmei Zhang*. [[pdf](https://arxiv.org/pdf/2308.09583.pdf)], 2023.8.18.
 
-9. **Large Language Models Cannot Self-Correct Reasoning Yet**
+9. **MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models**
+    *Longhui Yu, Weisen Jiang, Han Shi, Jincheng Yu, Zhengying Liu, Yu Zhang, James T. Kwok, Zhenguo Li, Adrian Weller, Weiyang Liu*. [[pdf](https://arxiv.org/pdf/2309.12284.pdf)], 2023.9.21.
+
+10. **Large Language Models Cannot Self-Correct Reasoning Yet**
 
    *Jie Huang, Xinyun Chen, Swaroop Mishra, Huaixiu Steven Zheng, Adams Wei Yu, Xinying Song, Denny Zhou*. [[pdf](https://arxiv.org/pdf/2310.01798.pdf)], 2023.10.3.
 
-10. **MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models**
-    *Longhui Yu, Weisen Jiang, Han Shi, Jincheng Yu, Zhengying Liu, Yu Zhang, James T. Kwok, Zhenguo Li, Adrian Weller, Weiyang Liu*. [[pdf](https://arxiv.org/pdf/2309.12284.pdf)], 2023.9.21.
+11. **Query and Response Augmentation Cannot Help Out-of-domain Math Reasoning Generalization**
+
+   *Chengpeng Li, Zheng Yuan, Hongyi Yuan, Guanting Dong, Keming Lu, Jiancan Wu, Chuanqi Tan, Xiang Wang, Chang Zhou*. [[pdf](https://arxiv.org/pdf/2310.05506.pdf)], 2023.10.9.
 
 12. **Let's Reinforce Step by Step**
 
