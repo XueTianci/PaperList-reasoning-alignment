@@ -124,6 +124,10 @@ Record the interesting papers I read. Because I just started recording recently,
 
    *Albert Q. Jiang, Alexandre Sablayrolles, Antoine Roux, Arthur Mensch, Blanche Savary, et al.*. [[pdf](https://arxiv.org/pdf/2401.04088.pdf)], 2023.1.8.
 
+6. **AUTOACT: Automatic Agent Learning from Scratch via Self-Planning**
+
+   *Shuofei Qiao, Ningyu Zhang, Runnan Fang, Yujie Luo, Wangchunshu Zhou, Yuchen Eleanor Jiang, Chengfei Lv, Huajun Chen*. [[pdf](https://arxiv.org/pdf/2401.05268.pdf)], 2023.1.10.
+
 
 ## Star History
 
