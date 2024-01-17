@@ -5,6 +5,8 @@ Record the interesting papers I read. Because I just started recording recently,
 - [Paper List]
   - [Papers for Reasoning](#Reasoning)
   - [Papers for Alignment](#Alignment)
+  - [Papers for Agent](#Agent)
+  - [Papers for Code](#Code)
  
 ## Reasoning
 
@@ -101,6 +103,17 @@ Record the interesting papers I read. Because I just started recording recently,
 
    *Wei Liu, Weihao Zeng, Keqing He, Yong Jiang, Junxian He*. [[pdf](https://arxiv.org/pdf/2312.15685.pdf)], 2023.12.25.
 
+## Agent
+
+1. **AUTOACT: Automatic Agent Learning from Scratch via Self-Planning**
+
+   *Shuofei Qiao, Ningyu Zhang, Runnan Fang, Yujie Luo, Wangchunshu Zhou, Yuchen Eleanor Jiang, Chengfei Lv, Huajun Chen*. [[pdf](https://arxiv.org/pdf/2401.05268.pdf)], 2023.1.10.
+
+## Code
+
+1. **Leveraging Print Debugging to Improve Code Generation in Large Language Models**
+
+   *Xueyu Hu, Kun Kuang, Jiankai Sun, Hongxia Yang, Fei Wu*. [[pdf](https://arxiv.org/pdf/2401.05319.pdf)], 2023.1.10.
 
 ## Other
 
@@ -124,9 +137,6 @@ Record the interesting papers I read. Because I just started recording recently,
 
    *Albert Q. Jiang, Alexandre Sablayrolles, Antoine Roux, Arthur Mensch, Blanche Savary, et al.*. [[pdf](https://arxiv.org/pdf/2401.04088.pdf)], 2023.1.8.
 
-6. **AUTOACT: Automatic Agent Learning from Scratch via Self-Planning**
-
-   *Shuofei Qiao, Ningyu Zhang, Runnan Fang, Yujie Luo, Wangchunshu Zhou, Yuchen Eleanor Jiang, Chengfei Lv, Huajun Chen*. [[pdf](https://arxiv.org/pdf/2401.05268.pdf)], 2023.1.10.
 
 
 ## Star History
