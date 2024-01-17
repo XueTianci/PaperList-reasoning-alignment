@@ -98,8 +98,12 @@ Record the interesting papers I read. Because I just started recording recently,
 6. **One Shot Learning as Instruction Data Prospector for Large Language Models**
 
    *Yunshui Li, Binyuan Hui, Xiaobo Xia, Jiaxi Yang, Min Yang, Lei Zhang, Shuzheng Si, Junhao Liu, Tongliang Liu, Fei Huang, Yongbin Li*. [[pdf](https://arxiv.org/pdf/2312.10302.pdf)], 2023.12.16.
+   
+7. **Policy Optimization in RLHF: The Impact of Out-of-preference Data**
 
-7. **What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning**
+   *Ziniu Li, Tian Xu, Yang Yu*. [[pdf](https://arxiv.org/pdf/2312.10584.pdf)], 2023.12.17.
+
+8. **What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning**
 
    *Wei Liu, Weihao Zeng, Keqing He, Yong Jiang, Junxian He*. [[pdf](https://arxiv.org/pdf/2312.15685.pdf)], 2023.12.25.
 
