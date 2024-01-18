@@ -149,6 +149,10 @@ Record the interesting papers I read. Because I just started recording recently,
 
    *Albert Q. Jiang, Alexandre Sablayrolles, Antoine Roux, Arthur Mensch, Blanche Savary, et al.*. [[pdf](https://arxiv.org/pdf/2401.04088.pdf)], 2023.1.8.
 
+7. **Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning**
+
+   *Kaiyi Zhang, Ang Lv, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan*. [[pdf](https://arxiv.org/pdf/2401.06469.pdf)], 2023.1.12.
+
 
 
 ## Star History
