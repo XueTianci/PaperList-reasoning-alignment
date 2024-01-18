@@ -133,15 +133,19 @@ Record the interesting papers I read. Because I just started recording recently,
 
    *Syeda Nahida Akter, Zichun Yu, Aashiq Muhamed, Tianyue Ou, Alex Bäuerle, Ángel Alexander Cabrera, Krish Dholakia, Chenyan Xiong, Graham Neubig*. [[pdf](https://arxiv.org/pdf/2312.11444.pdf)], 2023.12.18.
 
-3. **LLaMA Pro: Progressive LLaMA with Block Expansion**
+3. **GeoGalactica: A Scientific Large Language Model in Geoscience**
+
+   *Zhouhan Lin, Cheng Deng, Le Zhou, Tianhang Zhang, Yi Xu, Yutong Xu, Zhongmou He, Yuanyuan Shi, Beiya Dai, Yunchong Song, Boyi Zeng, Qiyuan Chen, Tao Shi, Tianyu Huang, Yiwei Xu, Shu Wang, Luoyi Fu, Weinan Zhang, Junxian He, Chao Ma, Yunqiang Zhu, Xinbing Wang, Chenghu Zhou*. [[pdf](https://arxiv.org/pdf/2401.00434.pdf)], 2023.12.31.
+
+4. **LLaMA Pro: Progressive LLaMA with Block Expansion**
 
    *Chengyue Wu, Yukang Gan, Yixiao Ge, Zeyu Lu, Jiahao Wang, Ye Feng, Ping Luo, Ying Shan*. [[pdf](https://arxiv.org/pdf/2401.02415.pdf)], 2023.1.4.
 
-4. **DeepSeek LLM: Scaling Open-Source Language Models with Longtermism**
+5. **DeepSeek LLM: Scaling Open-Source Language Models with Longtermism**
 
    *Xiao Bi, Deli Chen, Guanting Chen, Shanhuang Chen, Damai Dai, Chengqi Deng, Honghui Ding, et al.*. [[pdf](https://arxiv.org/pdf/2401.02954.pdf)], 2023.1.5.
 
-5. **Mixtral of Experts**
+6. **Mixtral of Experts**
 
    *Albert Q. Jiang, Alexandre Sablayrolles, Antoine Roux, Arthur Mensch, Blanche Savary, et al.*. [[pdf](https://arxiv.org/pdf/2401.04088.pdf)], 2023.1.8.
 
