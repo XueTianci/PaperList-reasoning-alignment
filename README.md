@@ -77,6 +77,10 @@ Record the interesting papers I read. Because I just started recording recently,
 
     *Peter Hase, Mohit Bansal, Peter Clark, Sarah Wiegreffe*. [[pdf](https://arxiv.org/pdf/2401.06751.pdf)], 2023.1.12.
 
+18. **CHAMP: A Competition-level Dataset for Fine-Grained Analyses of LLMs' Mathematical Reasoning Capabilities**
+
+    *Yujun Mao, Yoon Kim, Yilun Zhou*. [[pdf](https://arxiv.org/pdf/2401.06961.pdf)], 2023.1.13.
+
 ## Alignment
 
 1. **Chain of Hindsight Aligns Language Models with Feedback**
