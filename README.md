@@ -115,6 +115,10 @@ Record the interesting papers I read. Because I just started recording recently,
 
    *Wei Liu, Weihao Zeng, Keqing He, Yong Jiang, Junxian He*. [[pdf](https://arxiv.org/pdf/2312.15685.pdf)], 2023.12.25.
 
+9. **Self-Rewarding Language Models**
+
+   *Weizhe Yuan, Richard Yuanzhe Pang, Kyunghyun Cho, Sainbayar Sukhbaatar, Jing Xu, Jason Weston*. [[pdf](https://arxiv.org/pdf/2401.10020.pdf)], 2023.1.18.
+
 ## Agent
 
 1. **AUTOACT: Automatic Agent Learning from Scratch via Self-Planning**
