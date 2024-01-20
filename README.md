@@ -115,7 +115,11 @@ Record the interesting papers I read. Because I just started recording recently,
 
    *Wei Liu, Weihao Zeng, Keqing He, Yong Jiang, Junxian He*. [[pdf](https://arxiv.org/pdf/2312.15685.pdf)], 2023.12.25.
 
-9. **Self-Rewarding Language Models**
+9. **Tuning Language Models by Proxy**
+
+   *Alisa Liu, Xiaochuang Han, Yizhong Wang, Yulia Tsvetkov, Yejin Choi, Noah A. Smith*. [[pdf](https://arxiv.org/pdf/2401.08565.pdf)], 2023.1.16.
+
+10. **Self-Rewarding Language Models**
 
    *Weizhe Yuan, Richard Yuanzhe Pang, Kyunghyun Cho, Sainbayar Sukhbaatar, Jing Xu, Jason Weston*. [[pdf](https://arxiv.org/pdf/2401.10020.pdf)], 2023.1.18.
 
