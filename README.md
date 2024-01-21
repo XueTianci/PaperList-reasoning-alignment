@@ -121,7 +121,7 @@ Record the interesting papers I read. Because I just started recording recently,
 
 10. **Self-Rewarding Language Models**
 
-   *Weizhe Yuan, Richard Yuanzhe Pang, Kyunghyun Cho, Sainbayar Sukhbaatar, Jing Xu, Jason Weston*. [[pdf](https://arxiv.org/pdf/2401.10020.pdf)], 2023.1.18.
+    *Weizhe Yuan, Richard Yuanzhe Pang, Kyunghyun Cho, Sainbayar Sukhbaatar, Jing Xu, Jason Weston*. [[pdf](https://arxiv.org/pdf/2401.10020.pdf)], 2023.1.18.
 
 ## Agent
 
