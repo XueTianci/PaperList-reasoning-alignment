@@ -34,50 +34,58 @@ Record the interesting papers I read. Because I just started recording recently,
 
    *Hunter Lightman, Vineet Kosaraju, Yura Burda, Harri Edwards, Bowen Baker, Teddy Lee, Jan Leike, John Schulman, Ilya Sutskever, Karl Cobbe*. [[pdf](https://arxiv.org/pdf/2305.20050.pdf)], 2023.5.31.
 
-7. **Reinforced Self-Training (ReST) for Language Modeling**
+7. **Simple synthetic data reduces sycophancy in large language models**
+
+   *Jerry Wei, Da Huang, Yifeng Lu, Denny Zhou, Quoc V. Le*. [[pdf](https://arxiv.org/pdf/2308.03958.pdf)], 2023.8.7.
+
+8. **Reinforced Self-Training (ReST) for Language Modeling**
 
    *Caglar Gulcehre, Tom Le Paine, Srivatsan Srinivasan, Ksenia Konyushkova, Lotte Weerts, Abhishek Sharma, Aditya Siddhant, Alex Ahern, Miaosen Wang, Chenjie Gu, Wolfgang Macherey, Arnaud Doucet, Orhan Firat, Nando de Freitas*. [[pdf](https://arxiv.org/pdf/2308.08998.pdf)], 2023.8.17.
 
-8. **WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct**
+9. **WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct**
 
    *Haipeng Luo, Qingfeng Sun, Can Xu, Pu Zhao, Jianguang Lou, Chongyang Tao, Xiubo Geng, Qingwei Lin, Shifeng Chen, Dongmei Zhang*. [[pdf](https://arxiv.org/pdf/2308.09583.pdf)], 2023.8.18.
 
-9. **MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models**
+10. **MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models**
     *Longhui Yu, Weisen Jiang, Han Shi, Jincheng Yu, Zhengying Liu, Yu Zhang, James T. Kwok, Zhenguo Li, Adrian Weller, Weiyang Liu*. [[pdf](https://arxiv.org/pdf/2309.12284.pdf)], 2023.9.21.
 
-10. **Large Language Models Cannot Self-Correct Reasoning Yet**
+11. **Large Language Models Cannot Self-Correct Reasoning Yet**
 
     *Jie Huang, Xinyun Chen, Swaroop Mishra, Huaixiu Steven Zheng, Adams Wei Yu, Xinying Song, Denny Zhou*. [[pdf](https://arxiv.org/pdf/2310.01798.pdf)], 2023.10.3.
 
-11. **Query and Response Augmentation Cannot Help Out-of-domain Math Reasoning Generalization**
+12. **Query and Response Augmentation Cannot Help Out-of-domain Math Reasoning Generalization**
 
     *Chengpeng Li, Zheng Yuan, Hongyi Yuan, Guanting Dong, Keming Lu, Jiancan Wu, Chuanqi Tan, Xiang Wang, Chang Zhou*. [[pdf](https://arxiv.org/pdf/2310.05506.pdf)], 2023.10.9.
 
-12. **Let's Reinforce Step by Step**
+13. **Can ChatGPT Defend its Belief in Truth? Evaluating LLM Reasoning via Debate**
+
+    *Boshi Wang, Xiang Yue, Huan Sun*. [[pdf](https://arxiv.org/pdf/2305.13160.pdf)], 2023.10.10.
+
+14. **Let's Reinforce Step by Step**
 
     *Sarah Pan, Vladislav Lialin, Sherin Muckatira, Anna Rumshisky*. [[pdf](https://arxiv.org/pdf/2311.05821.pdf)], 2023.11.10.
     
-13. **What Makes Chain-of-Thought Prompting Effective? A Counterfactual Study**
+15. **What Makes Chain-of-Thought Prompting Effective? A Counterfactual Study**
 
     *Aman Madaan, Katherine Hermann, Amir Yazdanbakhsh*. [[pdf](https://aclanthology.org/2023.findings-emnlp.101.pdf)], 2023.12.1.
 
-14. **Math-Shepherd: A Label-Free Step-by-Step Verifier for LLMs in Mathematical Reasoning**
+16. **Math-Shepherd: A Label-Free Step-by-Step Verifier for LLMs in Mathematical Reasoning**
 
     *Peiyi Wang, Lei Li, Zhihong Shao, R.X. Xu, Damai Dai, Yifei Li, Deli Chen, Y.Wu, Zhifang Sui*. [[pdf](https://arxiv.org/pdf/2312.08935.pdf)], 2023.12.28.
 
-15. **Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding**
+17. **Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding**
 
     *Zilong Wang, Hao Zhang, Chun-Liang Li, Julian Martin Eisenschlos, Vincent Perot, Zifeng Wang, Lesly Miculicich, Yasuhisa Fujii, Jingbo Shang, Chen-Yu Lee, Tomas Pfister*. [[pdf](https://arxiv.org/pdf/2401.04398.pdf)], 2024.1.9.
 
-16. **The Impact of Reasoning Step Length on Large Language Models**
+18. **The Impact of Reasoning Step Length on Large Language Models**
 
     *Mingyu Jin, Qinkai Yu, Dong shu, Haiyan Zhao, Wenyue Hua, Yanda Meng, Yongfeng Zhang, Mengnan Du*. [[pdf](https://arxiv.org/pdf/2401.04925.pdf)], 2023.1.10.
 
-17. **The Unreasonable Effectiveness of Easy Training Data for Hard Tasks**
+19. **The Unreasonable Effectiveness of Easy Training Data for Hard Tasks**
 
     *Peter Hase, Mohit Bansal, Peter Clark, Sarah Wiegreffe*. [[pdf](https://arxiv.org/pdf/2401.06751.pdf)], 2023.1.12.
 
-18. **CHAMP: A Competition-level Dataset for Fine-Grained Analyses of LLMs' Mathematical Reasoning Capabilities**
+20. **CHAMP: A Competition-level Dataset for Fine-Grained Analyses of LLMs' Mathematical Reasoning Capabilities**
 
     *Yujun Mao, Yoon Kim, Yilun Zhou*. [[pdf](https://arxiv.org/pdf/2401.06961.pdf)], 2023.1.13.
 
