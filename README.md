@@ -131,6 +131,10 @@ Record the interesting papers I read. Because I just started recording recently,
 
     *Weizhe Yuan, Richard Yuanzhe Pang, Kyunghyun Cho, Sainbayar Sukhbaatar, Jing Xu, Jason Weston*. [[pdf](https://arxiv.org/pdf/2401.10020.pdf)], 2023.1.18.
 
+11. **Mitigating Hallucinations of Large Language Models via Knowledge Consistent Alignment**
+
+    *Fanqi Wan, Xinting Huang, Leyang Cui, Xiaojun Quan, Wei Bi, Shuming Shi*. [[pdf](https://arxiv.org/pdf/2401.10768.pdf)], 2023.1.19.
+
 ## Agent
 
 1. **AUTOACT: Automatic Agent Learning from Scratch via Self-Planning**
